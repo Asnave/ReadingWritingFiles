@@ -1,0 +1,4 @@
+Hello World! 
+Welcome to text doc! 
+Coding is cool!
+THIS ISNT HARDCODING!
